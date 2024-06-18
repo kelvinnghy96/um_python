@@ -1,0 +1,1001 @@
+﻿PostalCode,HashCode, Age ,Payment Method, rowNumber ,LastTransaction, CustomerId ,Vorname, id 
+49278,BOl2gvcX,64,credit card,1,17/4/2012 2:05,3,Eva,1
+39982,lJC8cDTW,35,cheque,2,25/11/2011 6:58,4, Kunigunde,2
+87213,tKIbadnh,25,credit card,3,15/2/2012 17:29,6, Notburga,3
+38548,RcW2Pb3w,39,credit card,4,9/10/2010 11:22,7,Maximiliane,4
+38794,z9twA4AJ,39,credit card,5,13/6/2012 10:13,9,Dorothea,5
+44573,akWNQl4e,28,cheque,6,16/7/2010 9:39,12,Maria,6
+70936,glrPDLzY,21,credit card,7,15/3/2012 22:17,16, Rosina,7
+71302,Pn6FkbuL,48,credit card,8,16/6/2011 21:46,17,Susanne,8
+49705,3rGPBX98,70,credit card,9,30/3/2011 14:17,20,Genoveva,9
+36049,9Eng7yI0,36,credit card,10,17/4/2013 18:06,21,Katharina,10
+26323,uP7dRmDK,22,credit card,11,11/3/2013 17:37,22, Marlene,11
+42376,XlxhfOIo,53,cash,12,31/8/2010 17:39,23,Annemarie,12
+42215,KYmSR2vE,27,cash,13,15/7/2011 7:16,25,Magdalena,13
+80059,EOGj6tDH,234,credit card,14,26/2/2014 18:22,26,Waltraud,14
+57984,yTDlEBXc,22,cash,15,9/5/2011 6:30,28,Maria,15
+52245,3ANQ9shn,49,credit card,16,18/2/2011 10:22,29,Barbara,16
+56625,BDEPLKmG,24,cash,17,22/1/2011 3:19,30,Katrin,17
+50003,8vB4XorN,45,credit card,18,11/2/2013 21:16,32,Barbara,18
+37852,1SDtHCf7,45,credit card,19,6/2/2011 11:31,35,Katrin,19
+66713,gQBDZ8Lw,66,cash,20,9/3/2011 23:04,37,Susanne,20
+70052,G1c0kZqQ,82,cash,21,10/10/2010 10:29,38, Rosemarie,21
+44272,lJC8cDTW,35,credit card,22,14/10/2010 7:48,39,Hannelore,22
+71962,n5YVLJ7v,17,credit card,23,14/8/2011 16:40,41,Annemarie,23
+30942,tIdMRZzN,52,cash,24,23/6/2010 3:58,42,Josephine,24
+45355,HVtuFvKk,49,credit card,25,31/8/2010 0:27,44,Burgunde,25
+59736,LJVy8PnW,33,credit card,26,16/6/2010 7:45,45,Burgunde,26
+27323,YrunTynm,40,credit card,27,25/1/2012 12:02,47,Stefanie,27
+44466,Pme0EuIj,53,credit card,28,30/7/2010 20:28,51,Anna,28
+62985,lOppPgbt,64,credit card,29,15/8/2011 2:23,59, Notburga,29
+48487,FQONt9Qj,42,credit card,30,24/10/2010 8:39,60,Josefine,30
+25067,kGbkHPe3,66,cash,31,9/12/2010 19:08,65,Brigitte,31
+51008,ZBaMGxyd,84,cash,32,6/6/2010 3:53,66,Victoria,32
+46682,G1c0kZqQ,34,cheque,33,30/4/2012 18:42,69,Anastasia,33
+79587,U9oQ4X4a,46,credit card,34,7/7/2012 9:39,70,Augusta,34
+72496,vkq98Roy,71,credit card,35,24/8/2013 21:22,77, Rosmarie,35
+63472,Zu1IH3W9,68,cash,36,27/9/2010 9:16,78, Rosemarie,36
+38676,w1RMi0Ye,18,cash,37,6/11/2010 0:20,79,Barbara,37
+65683,67pf3SG7,49,cash,38,25/7/2010 0:31,81,Elisabeth,38
+57636,txwqlFrx,23,credit card,39,25/11/2011 10:05,83,Genoveva,39
+83490,p2B4niEV,38,credit card,40,28/8/2011 2:49,86,Bernadette,40
+58302,dtW2nTUg,65,cash,41,4/8/2010 0:14,87,Margaret,41
+80454,Q6Hs8l2N,22,credit card,42,12/10/2012 2:34,89,Therese,42
+29058,K4BiUUqk,21,credit card,43,16/6/2012 8:17,90,Eva,43
+30136,fN6Bi6ut,37,credit card,44,25/1/2011 7:17,93,Veronika,44
+48672,ISLS1LEp,70,credit card,45,27/3/2011 18:43,94,Josefine,45
+84951,Ilw55cGT,81,cash,46,31/3/2011 0:13,95,Scholastika,46
+35583,MemBg2vN,47,credit card,47,20/2/2010 6:26,97,Hannelore,47
+37760,K0LlWwKm,55,cash,48,4/10/2011 22:23,100, Gertraud,48
+42266,nebDykfo,42,credit card,49,26/7/2012 22:38,101,Antonia,49
+32539,DBPXSyZX,38,credit card,50,26/12/2011 8:03,104, Kunigunde,50
+40686,QW258zNn,60,credit card,51,12/6/2011 8:42,105, Cäcilie,51
+9012,2PdHrQ0N,68,credit card,52,6/1/2012 3:52,106,Johanna,52
+65565,VYYxwovV,22,credit card,53,23/6/2012 16:43,107,Maximiliane,53
+35673,wCMq8WUK,63,cash,54,4/2/2011 18:11,109,Magdalena,54
+34749,XLM36WeL,60,cash,55,30/6/2010 21:13,112,Wilhelmine,55
+40004,i431B5FD,25,credit card,56,5/5/2012 13:22,114,Elisabeth,56
+65793,hR5bIMTj,84,credit card,57,13/1/2011 18:19,117, Rosmarie,57
+53547,nJ7KivPn,53,credit card,58,30/11/2011 21:38,119,Sabine,58
+29907,LB3fgpFh,47,cheque,59,10/2/2010 14:00,120,Franziska,59
+48625,FUcDIlsz,54,cheque,60,17/5/2011 22:31,122, Mathilde,60
+74629,kRi3vk6o,52,credit card,61,24/8/2011 12:28,125,Katharina,61
+49684,fn9woJ27,25,credit card,62,30/5/2012 4:26,126,Creszenzia,62
+52416,bUAFjUKx,52,credit card,63,1/9/2012 15:30,130,Agnes,63
+45863,x7MSewP7,47,cash,64,19/1/2011 23:29,131, Walburga,64
+47851,OHIF3ecs,47,cash,65,15/6/2011 11:57,134,Franziska,65
+33745,ClU1K8pr,33,credit card,66,5/8/2013 13:00,135,Hildegard,66
+25257,VTRHXs1F,74,credit card,67,6/6/2010 23:15,138,Johanna,67
+75835,a3kGAKaY,35,credit card,68,1/11/2012 11:47,141,Walburga,68
+60335,fya0KpSq,35,credit card,69,27/3/2011 18:55,142,Roswitha,69
+37653,FtGlaAO8,52,cash,70,11/4/2010 9:34,143,Antonia,70
+49706,DsXdDTUM,20,credit card,71,14/9/2011 13:08,145,Dorothea,71
+53661,Hg6423c9,50,credit card,72,7/12/2011 12:23,146, Hannelore,72
+69511,Q3RgD5dc,38,cheque,73,7/5/2010 17:38,147, Josefa,73
+51239,WIK59uh6,66,credit card,74,30/6/2012 23:27,148,Caroline,74
+55284,UTM0J7L3,19,credit card,75,13/3/2013 19:12,150,Dorothea,75
+59370,H0n3eUsn,42,credit card,76,22/12/2011 0:40,151,Waltraud,76
+79081,mSaXdmd9,35,credit card,77,1/11/2010 14:53,152,Agnes,77
+55102,8FLjqHa8,86,credit card,78,11/2/2011 15:47,153,Antonia,78
+89596,7OTWTwK4,27,credit card,79,24/9/2012 19:26,154,Anastasia,79
+67840,WfJORRap,34,credit card,80,8/11/2011 11:58,157,Walburga,80
+46124,f6IvQ9iT,64,credit card,81,6/9/2010 4:40,161, Josefa,81
+39515,QCU4Fgm4,63,credit card,82,16/3/2012 22:08,165,Katharina,82
+24790,S0EDUb7L,58,credit card,83,16/10/2010 11:24,166,Sieglinde,83
+57315,Rvv4B7Gr,63,credit card,84,29/5/2012 1:15,170,Burgunde,84
+81311,DIw2K055,31,credit card,85,25/11/2011 16:40,171,Georgine,85
+61340,K2SwvDUq,36,credit card,86,5/4/2010 14:05,172,Maria,86
+47947,GGO1WQWB,58,cash,87,27/11/2009 8:10,175,Anastasia,87
+80240,1olvkgMw,21,cash,88,29/1/2013 8:33,176, Margarete,88
+33868,oIuGNpzw,27,credit card,89,10/2/2012 1:30,178,Therese,89
+50130,PsXsGka2,45,credit card,90,14/4/2011 23:22,180,Roswitha,90
+47777,GlGZMbnk,51,credit card,91,15/1/2012 17:42,181,Margaret,91
+43825,sSNU6Ylb,42,credit card,92,3/1/2012 11:04,182,Babette,92
+68312,8XQ5wVue,67,credit card,93,22/8/2013 10:45,183,Elisabeth,93
+18610,BUkdkv7j,55,cash,94,27/11/2010 1:04,186,Lieselotte,94
+20916,UdxrZlw3,23,credit card,95,21/10/2011 14:29,187,Roswitha,95
+87373,YXITvyRR,36,credit card,96,21/4/2012 18:29,190,Anna,96
+66162,x9hqgAOa,89,cash,97,15/12/2012 11:52,191,Anna,97
+86630,QLVjOVdq,64,cash,98,9/3/2011 23:55,193,Magdalena,98
+56279,PjxUX4FV,72,credit card,99,16/4/2012 6:13,195, Cäcilie,99
+56874,mHkwfOrB,33,credit card,100,28/5/2011 18:10,196,Veronika,100
+20041,ofnLhsJr,50,credit card,101,8/11/2010 1:17,198,Genoveva,101
+28479,92nmswzi,71,cheque,102,2/3/2011 4:08,199,Gertrud,102
+49130,V6i1m60Q,79,credit card,103,3/8/2010 16:04,201, Cäcilie,103
+24937,ngFxIEzB,51,cash,104,18/8/2010 11:46,202, Josefa,104
+79644,PeoGZnAi,72,cash,105,24/11/2009 0:17,207, Birgit,105
+53630,T5pxtCxg,61,cash,106,4/12/2011 23:20,210, Marie,106
+68905,YAplaY8d,59,credit card,107,24/3/2011 18:59,213,Caroline,107
+69123,N8Cvr0k6,49,credit card,108,1/5/2011 5:43,214,Brigitte,108
+32867,D97jrMoY,54,cheque,109,22/7/2011 13:29,217,Scholastika,109
+71189,7TAHDWAH,26,cash,110,8/1/2012 7:03,218, Waltraud,110
+42423,6e7TUiBt,18,cash,111,10/8/2012 7:46,222,Josefine,111
+47457,rDGyBpoZ,37,cash,112,5/10/2010 8:04,224,Antonia,112
+54127,nvOOHxnL,40,credit card,113,6/8/2012 23:42,227, Sophia,113
+28135,RJawkKEi,42,cash,114,31/3/2011 5:39,228, Christina,114
+64017,DbDn9imt,69,credit card,115,7/8/2012 2:28,229, Waltraud,115
+35108,HP1KrVxJ,24,credit card,116,18/3/2011 12:34,231,Magdalena,116
+59282,TUA8xgUo,62,cash,117,5/11/2011 13:30,235,Antonia,117
+83226,nfuPH2Rd,39,credit card,118,3/10/2011 15:42,238,Annemarie,118
+62961,NnESrVF8,37,credit card,119,4/7/2011 9:47,239,Annemarie,119
+55252,F7nDASX3,22,credit card,120,4/10/2012 8:55,241, Hannelore,120
+70864,waI3YAtn,38,cash,121,1/8/2010 2:22,246, Cäcilie,121
+17429,G8FGhgzf,28,credit card,122,26/7/2011 7:29,247,Georgine,122
+78944,3RwmG77F,53,credit card,123,12/7/2011 8:25,250,Eva,123
+53339,pKrTBLW8,36,credit card,124,5/6/2012 1:46,251,Walburga,124
+30515,vKrR9lgE,76,cheque,125,22/12/2010 20:44,253,Anna,125
+53369,f5mEsjQb,42,credit card,126,3/1/2011 8:46,254,Cäcilia,126
+37642,ocLvIKIN,65,cash,127,5/1/2013 16:40,255,Franziska,127
+29311,LOBjc0ue,65,cash,128,7/6/2011 21:02,256,Cäcilia,128
+18006,ukz24ozv,24,credit card,129,3/9/2012 9:39,262,Brigitte,129
+33862,JlePCygI,31,cash,130,27/3/2011 18:51,266,Sabine,130
+39283,hQateE26,46,cheque,131,31/10/2012 9:56,268, Rosina,131
+44552,FYBcEUd6,68,credit card,132,16/6/2013 12:50,269,Babette,132
+86255,P4KEF7Wq,42,cash,133,5/2/2011 9:08,270,Scholastika,133
+61252,0Dm8Yibz,55,credit card,134,19/3/2011 3:18,271,Eva,134
+60457,wCUZbsb9,54,cash,135,5/9/2011 9:00,274,Josephine,135
+70446,zaus5phD,81,credit card,136,3/10/2010 18:28,276,Elisabeth,136
+60779,dKjQRsZi,46,credit card,137,30/11/2011 21:57,278,Susanne,137
+62955,oHbgmBfM,63,credit card,138,27/6/2011 6:46,280,Josefine,138
+39804,HvSjreXj,73,credit card,139,9/6/2010 22:17,284,Katharina,139
+47146,JveEHeyk,17,credit card,140,6/9/2011 7:28,285, Bettina,140
+41954,9F9KFJ6H,53,cash,141,26/8/2010 19:19,287,Caroline,141
+28813,GVO5dbuC,17,credit card,142,13/3/2013 0:07,289,Eva,142
+51752,H8szJiQ8,91,cheque,143,15/6/2010 0:57,290,Magdalena,143
+53383,pCUO5AGa,35,credit card,144,30/6/2012 20:58,291, Sophia,144
+66588,vyLYrSRA,80,cash,145,8/12/2012 10:37,299, Rosmarie,145
+35725,ZSopZwuk,35,credit card,146,10/10/2010 14:56,300,Gertrud,146
+81326,AIFX9peT,2,credit card,147,15/9/2010 2:30,301,Ottilie,147
+39700,SMstnaz9,67,credit card,148,4/12/2011 9:22,302,Burgunde,148
+40160,30w6lE6G,46,credit card,149,5/1/2012 1:46,303, Klothilde,149
+24288,X3YpANiF,50,credit card,150,11/10/2010 18:25,304,Walburga,150
+30600,WN8bHBjG,50,cheque,151,15/10/2010 6:05,311,Franziska,151
+53056,CG3hseQg,72,credit card,152,20/2/2011 13:11,312,Maria,152
+62254,ehgSCbVE,25,cash,153,28/4/2011 22:36,315,Maria,153
+16423,S3Pxb9ok,38,credit card,154,22/2/2011 10:07,316,Sabine,154
+77126,9bU2w7pV,30,cash,155,1/12/2011 19:59,318,Wilhelmine,155
+51323,28Rviqp0,27,credit card,156,1/11/2011 23:47,319, Rosina,156
+37604,H6LxgqeP,32,cash,157,9/8/2011 21:25,320, Josephine,157
+56339,rkKD9dhZ,56,credit card,158,13/6/2011 18:49,323,Johanna,158
+68932,83d7eRMo,29,credit card,159,30/11/2011 13:34,324, Gertraud,159
+48144,v4z0FThC,58,credit card,160,22/6/2012 19:38,326,Katharina,160
+58699,5iOBFRfJ,37,credit card,161,4/1/2011 22:30,327, Christina,161
+32367,TnOXa1ht,49,cash,162,2/5/2010 20:31,328,Gertrud,162
+34322,v0poyp4v,19,credit card,163,30/4/2012 0:08,331, Mathilde,163
+48202,NFkiHjkD,57,credit card,164,6/2/2012 2:13,332,Creszenzia,164
+46755,GjU0ksAd,27,credit card,165,9/2/2012 14:28,338, Notburga,165
+57714,ghJnM1Rb,78,cash,166,20/1/2010 11:49,339,Eva,166
+59997,O9rkKV6Z,29,credit card,167,7/10/2012 19:19,342, Rosina,167
+66465,aUtRQSng,59,cash,168,6/10/2010 7:22,343,Antonia,168
+50069,km0CFEfa,62,credit card,169,19/2/2012 23:09,344,Georgine,169
+99413,RQ0dUx34,57,credit card,170,25/2/2011 20:07,351,Waltraud,170
+70286,bAKACf7o,29,credit card,171,10/1/2012 13:07,352,Magdalena,171
+74035,x4pYHlgV,28,credit card,172,1/7/2011 5:25,356,Irmgard,172
+65113,0Go12lhb,51,credit card,173,11/1/2012 20:43,357,Ursula,173
+43509,H1NrMhMz,45,credit card,174,24/8/2011 17:20,361, Margarete,174
+51269,9uxwNsXr,85,cash,175,13/6/2010 4:16,362,Roswitha,175
+67034,7GDdhe6R,51,cash,176,19/5/2010 6:35,372,Barbara,176
+39032,VlJVFpat,34,credit card,177,17/4/2012 19:36,374,Creszenzia,177
+49943,w5XASsXb,66,cash,178,6/5/2010 7:03,378,Sophie,178
+64591,TODZsH3h,30,credit card,179,17/9/2011 12:28,379,Annemarie,179
+47739,OgOSZPKJ,89,cash,180,28/11/2010 2:34,382,Maria,180
+88698,biBvW212,33,credit card,181,17/12/2013 3:14,385,Elisabeth,181
+55349,jPuStBk5,17,cash,182,24/1/2010 23:30,387,Elisabeth,182
+41620,yyGY9EBR,50,credit card,183,12/5/2011 18:58,388, Kreszentia,183
+47286,xXBXsi8m,42,cheque,184,15/6/2011 22:15,390,Franziska,184
+29847,SuIBpfAT,34,credit card,185,29/3/2012 4:08,393, Rosmarie,185
+64008,GHX5UrH3,55,cash,186,9/2/2011 23:00,398,Georgine,186
+35733,atMTm4DU,73,cash,187,13/12/2010 7:43,399, Walburga,187
+42090,fAf0KV8h,59,credit card,188,13/5/2011 16:12,401, Gertraud,188
+48578,QZNLpGKp,47,cash,189,4/3/2010 11:20,405,Margaret,189
+47195,ZYTytgk4,78,cash,190,6/12/2010 12:51,406,Johanna,190
+18888,zMyeY8je,69,credit card,191,12/2/2011 3:22,412,Johanna,191
+25161,gFkFRdaI,38,cash,192,21/7/2010 6:54,414,Victoria,192
+46716,Nyqhazd7,17,credit card,193,7/8/2012 10:41,415,Elisabeth,193
+47893,ELNgicTB,22,credit card,194,21/3/2012 11:34,420, Gertraud,194
+56568,NON7zHOC,52,cheque,195,17/4/2011 6:44,423,Caroline,195
+43635,cUrR418k,30,credit card,196,5/9/2011 20:47,424,Augusta,196
+34633,ho5RCxxm,36,cheque,197,22/6/2010 4:56,428,Anna,197
+40549,H0TFG5MM,60,cash,198,30/11/2010 10:35,429, Waltraud,198
+51040,sVoaunIJ,23,cash,199,17/10/2010 14:01,436,Margaret,199
+58722,Swk4xNs0,40,credit card,200,8/3/2012 21:43,437, Marlene,200
+80109,NsreMU8i,27,credit card,201,9/10/2012 4:31,440,Susanne,201
+52623,Cu7KhuFs,52,credit card,202,13/3/2010 18:36,442,Hannelore,202
+42372,YrFsXGUa,75,credit card,203,16/11/2010 20:35,444,Ursula,203
+29863,blsGaVg3,40,credit card,204,30/9/2012 22:48,447,Anna,204
+50049,GWPSIUW2,30,credit card,205,6/9/2012 16:47,448,Wilhelmine,205
+35479,2PmPZWDK,42,cash,206,27/4/2011 14:50,456, Rosemarie,206
+49469,sxnpIUU0,43,cash,207,17/10/2012 14:05,457, Cäcilie,207
+52664,RxjVpJBM,61,cash,208,29/6/2011 15:15,459,Annemarie,208
+61718,xaOh8lV5,56,credit card,209,14/4/2013 4:16,460,Roswitha,209
+40753,TgZBAArX,51,credit card,210,28/9/2010 12:30,462,Bernadette,210
+49994,gtWZWYUM,37,credit card,211,28/1/2012 13:39,463, Kreszentia,211
+57478,9UaJdXWX,17,cheque,212,10/7/2011 8:13,465,Lieselotte,212
+41474,6A75rQhE,30,credit card,213,16/1/2012 6:15,467,Magdalena,213
+10869,qyO20YBw,35,cash,214,10/11/2011 23:07,468, Walburga,214
+57968,HHfSwcYU,25,cash,215,1/4/2011 3:41,469,Gertrud,215
+49215,m8xXvUDx,26,credit card,216,9/2/2012 5:24,472,Antonia,216
+40973,DDEoEUqq,33,credit card,217,4/7/2010 18:25,474,Scholastika,217
+81900,IPlhr6cC,43,credit card,218,25/8/2010 11:50,475,Eva,218
+40990,a1MWIOfr,21,cash,219,12/3/2012 13:18,480, Kunigunde,219
+49525,iJ5T9LF1,29,credit card,220,25/9/2012 8:15,487,Scholastika,220
+57903,0dFBEzCp,34,cash,221,30/11/2011 13:03,488,Cäcilia,221
+15002,3djn1SDK,33,credit card,222,21/1/2011 10:32,489,Barbara,222
+52112,f3iAYzTo,17,credit card,223,12/3/2012 0:51,490,Antonia,223
+40426,Nh4XuVkA,79,credit card,224,19/6/2011 13:26,492,Katrin,224
+63905,8ifgixwW,79,credit card,225,10/2/2011 0:31,494, Mathilde,225
+49742,MLlwwJCK,52,credit card,226,18/12/2011 12:06,496, Waltraud,226
+17715,yBQox9zl,62,cheque,227,23/7/2011 5:32,499,Katrin,227
+71368,S4tBcsld,30,credit card,228,14/7/2011 10:48,500,Josefine,228
+53312,4RSQEopW,35,credit card,229,17/6/2011 11:38,501,Barbara,229
+33874,MXqsktgh,31,credit card,230,12/2/2013 19:41,502,Therese,230
+13014,k7lMPtjG,47,cash,231,19/1/2011 1:39,503,Elisabeth,231
+64735,6MFtHeI8,35,credit card,232,11/2/2012 3:55,504, Josefa,232
+37718,zrcauQ9a,61,credit card,233,11/5/2012 9:13,507,Katharina,233
+44241,RleMzwZg,62,credit card,234,3/8/2012 15:20,508,Ottilie,234
+38356,UhuQAJZQ,55,credit card,235,14/3/2011 19:15,509,Victoria,235
+26601,vhtTUr66,48,cheque,236,3/6/2011 20:56,510,Sabine,236
+24478,5F6ZW8VT,89,cash,237,18/8/2011 16:40,512,Edeltraud,237
+51727,xiQrFrpV,33,credit card,238,17/11/2010 3:59,513,Burgunde,238
+68734,THcgfMaD,50,credit card,239,13/6/2010 12:41,517, Notburga,239
+47146,W1gqSYVC,63,cheque,240,29/5/2010 9:13,523,Sabine,240
+59557,KgOaIIMC,64,credit card,241,1/1/2013 6:14,525,Magdalena,241
+65094,Dl2LRoQV,74,credit card,242,11/7/2010 20:58,526, Bettina,242
+72481,3DohFRui,33,credit card,243,18/1/2012 20:22,528,Gertrud,243
+48789,z3POfQ5L,55,cheque,244,17/9/2011 20:04,530,Verena,244
+50412,cujNb6GQ,81,credit card,245,23/4/2011 12:42,531, Rosina,245
+44960,wQDb9td0,81,credit card,246,2/6/2011 7:14,532,Babette,246
+34377,kLjV6JOu,50,cash,247,12/9/2011 17:17,536,Antonia,247
+39759,gXJ7Pwee,53,cash,248,2/10/2011 21:02,540, Bettina,248
+13223,rLSnVvQj,56,cheque,249,27/9/2010 17:46,543,Georgine,249
+63118,OHIF3ecs,50,credit card,250,12/4/2011 0:08,544,Margaret,250
+57443,QCU4Fgm4,38,credit card,251,24/6/2011 10:40,545,Franziska,251
+62035,Skf9fEaF,71,credit card,252,27/8/2011 21:45,549, Christina,252
+51027,3bgeC6rr,18,credit card,253,9/1/2013 2:33,551,Anastasia,253
+48898,R9s3bCKc,27,credit card,254,21/11/2011 20:36,553, Walburga,254
+50563,fCOAG56c,27,cheque,255,6/9/2010 14:58,556,Eva,255
+74769,o2pM2yEq,86,credit card,256,25/4/2012 1:16,557,Georgine,256
+77123,DlHE0KbG,82,cash,257,14/2/2011 19:00,558, Hannelore,257
+73594,ccJwT4lI,24,cash,258,8/10/2012 19:50,559,Ursula,258
+35889,NON7zHOC,29,credit card,259,30/9/2011 19:49,560,Veronika,259
+42147,H8tTp8Ky,45,credit card,260,16/11/2012 14:43,561,Katrin,260
+82634,KcQK62N7,35,credit card,261,31/8/2011 21:54,565,Katharina,261
+33265,m5RrACFZ,18,credit card,262,3/12/2011 23:09,566,Sieglinde,262
+34948,vRKFjQdu,90,credit card,263,13/7/2011 9:22,569, Marie,263
+78508,JApslbuL,51,credit card,264,21/2/2012 2:11,570,Dorothea,264
+55995,Kpf2hrAR,27,cash,265,3/9/2011 8:52,572, Kreszentia,265
+59520,ASSm0Gw4,24,credit card,266,20/12/2011 22:32,573,Josephine,266
+80052,4sOGEqYt,28,cash,267,12/5/2012 20:47,574, Christina,267
+45010,Qnrk4KMI,43,cheque,268,22/12/2010 6:27,577,Cäcilia,268
+44502,yQjFRR1I,21,credit card,269,22/2/2012 12:55,578,Cäcilia,269
+80619,dYdjH2uj,75,credit card,270,11/3/2010 5:16,579,Josephine,270
+45063,joEpLf0I,51,credit card,271,12/6/2011 21:43,584,Anna,271
+46694,BtCY2Neh,39,credit card,272,3/11/2011 0:14,588,Georgine,272
+73429,blsGaVg3,46,credit card,273,16/3/2013 4:35,590,Ottilie,273
+87726,YI3zKILp,34,credit card,274,4/2/2011 11:52,591,Katharina,274
+28079,jHwjijNm,40,credit card,275,4/7/2012 6:23,593,Sabine,275
+20520,CaZCagHV,38,cash,276,12/7/2010 7:13,594,Brigitte,276
+69968,wZvgEvwM,45,credit card,277,11/9/2012 5:49,595,Babette,277
+40516,mcq4IyiE,48,cash,278,13/8/2011 15:06,596, Kreszentia,278
+73200,i2a9ZE9A,55,credit card,279,11/11/2012 9:40,599,Kunigunde,279
+61373,21jXDJXH,17,cheque,280,16/7/2010 18:31,602, Marlene,280
+42338,AkpK2ek7,68,credit card,281,10/3/2012 20:41,604, Klothilde,281
+53600,3OjTesQd,28,credit card,282,11/5/2012 15:23,607,Hildegard,282
+46105,3OTKo0aH,26,credit card,283,19/6/2012 17:37,609,Lieselotte,283
+50302,Lsh1fsRZ,73,cash,284,21/8/2010 3:59,612, Walburga,284
+47605,5gcqkuAs,54,cheque,285,26/2/2011 4:11,614,Elisabeth,285
+36949,woLIg9Df,70,credit card,286,18/4/2012 16:29,617,Caroline,286
+36516,Fz87IKuW,58,cash,287,7/2/2012 0:28,618,Josephine,287
+46064,4xMw6Flo,40,credit card,288,10/7/2011 10:30,619,Wilhelmine,288
+25624,rUOCHd2E,63,credit card,289,6/12/2010 4:51,626,Eva,289
+54630,6jIToUwA,75,cash,290,27/6/2010 18:46,627,Johanna,290
+36854,cSNIjLTA,39,credit card,291,10/10/2010 2:29,630,Cäcilia,291
+38249,pCUO5AGa,31,cash,292,9/4/2012 1:21,631,Cäcilia,292
+61079,eqzP2w4V,90,credit card,293,3/3/2011 4:36,633,Maria,293
+33974,4pEvG68d,28,credit card,294,3/5/2013 21:41,637,Babette,294
+66899,DiIeXlNJ,43,credit card,295,27/4/2013 17:50,639,Sabine,295
+45249,Uo9Qy2M4,34,credit card,296,23/11/2012 15:57,641,Veronika,296
+70899,vedLoUod,56,credit card,297,25/1/2012 9:22,642,Barbara,297
+72315,2xbLvYQk,40,credit card,298,16/3/2012 22:23,644,Anna,298
+91189,TgZBAArX,39,credit card,299,29/11/2011 1:46,646, Josephine,299
+67613,xGqvVQV2,40,cash,300,8/8/2011 14:34,647,Genoveva,300
+46235,BqH79m89,39,credit card,301,7/11/2010 16:58,649,Magdalena,301
+52651,LdZvNRAt,36,credit card,302,6/11/2010 20:56,650,Antonia,302
+44574,dbWSIwf2,34,credit card,303,4/9/2010 20:14,651,Annemarie,303
+50719,vaOkeJW0,86,credit card,304,15/2/2011 10:28,654, Marlene,304
+37813,vZ07uHX3,52,cash,305,12/7/2011 21:26,655,Agnes,305
+54398,hNYTDtWL,20,credit card,306,10/12/2011 14:51,657,Bernadette,306
+24693,vZ07uHX3,46,credit card,307,22/6/2012 9:13,660,Caroline,307
+44758,Zqrmm6Jw,42,cash,308,2/4/2011 18:38,661,Genoveva,308
+39553,5MozbqJ4,54,credit card,309,18/8/2012 9:11,664,Franziska,309
+31650,6xb3RPor,46,credit card,310,10/7/2012 15:30,666,Eva,310
+37704,i85Q2th4,76,credit card,311,10/8/2011 6:42,669,Annemarie,311
+46399,qMrUdy5L,20,credit card,312,14/9/2012 16:49,672, Bettina,312
+40678,KJ6hj6sI,51,credit card,313,15/5/2012 8:07,676,Sieglinde,313
+41306,znRJwkZk,54,cash,314,8/8/2011 7:47,677,Kunigunde,314
+77994,wHh275mF,65,cheque,315,30/6/2011 18:55,681,Georgine,315
+64693,40xiWgv9,55,credit card,316,16/11/2010 3:25,684, Josephine,316
+49720,HjX4YiFL,17,cash,317,7/10/2012 8:30,686,Elisabeth,317
+54095,ettsoaY5,18,credit card,318,3/9/2011 3:43,687,Edeltraud,318
+51442,AbFUUDxr,21,credit card,319,2/9/2012 6:43,688, Notburga,319
+78779,8TyhrvGv,64,cash,320,12/6/2011 13:33,689, Rosmarie,320
+73779,crPUYdcS,71,credit card,321,16/8/2012 7:58,693, Marlene,321
+67998,CM3V0ou3,43,cash,322,11/12/2010 0:09,694,Annemarie,322
+65338,lDWNCoE1,18,cheque,323,27/10/2010 6:39,695,Edeltraud,323
+68530,wJuasCGW,39,credit card,324,2/3/2011 14:32,700,Waltraud,324
+33295,MIEAsPbM,26,cash,325,10/10/2013 20:13,704,Brigitte,325
+57985,fCOAG56c,17,credit card,326,15/7/2012 20:13,705,Johanna,326
+66980,oDpMToNk,77,credit card,327,21/5/2011 11:24,707, Gertraud,327
+54628,7xDlBkHr,45,credit card,328,10/12/2011 16:06,708,Maria,328
+67996,ZTyyUGup,90,credit card,329,27/7/2013 22:07,712,Elisabeth,329
+49659,XMDsRKKc,55,cash,330,18/1/2011 4:36,713,Sieglinde,330
+25174,W0Sz5GCv,37,credit card,331,6/8/2011 21:26,717,Victoria,331
+66955,ASSm0Gw4,30,credit card,332,14/6/2012 17:20,720,Sabine,332
+65466,Mqvdh12w,41,credit card,333,2/12/2011 9:06,723,Stefanie,333
+89598,3UkCKVjJ,46,cash,334,24/6/2010 8:54,724,Irmgard,334
+85366,akWNQl4e,48,credit card,335,26/12/2011 4:48,729,Maximiliane,335
+54585,IflVtKHF,34,credit card,336,19/1/2012 19:47,732, Sophia,336
+58826,ZYsjhFn3,52,cash,337,27/11/2010 16:56,733,Susanne,337
+63490,ZFaQjitd,18,credit card,338,30/10/2012 8:05,736, Bettina,338
+46321,xE1iyLHy,46,credit card,339,18/10/2012 1:14,737, Hannelore,339
+72804,n9xZIo4a,53,credit card,340,12/7/2012 3:18,738,Anastasia,340
+53175,Kq90bhm1,64,credit card,341,19/8/2013 13:03,739, Rosemarie,341
+69314,T4rOqdyp,30,credit card,342,14/9/2012 5:07,743,Maximiliane,342
+32350,fAf0KV8h,52,credit card,343,3/2/2011 0:29,744,Magdalena,343
+32949,s4mJquiX,75,cash,344,9/5/2010 10:48,748, Sophia,344
+94207,BuEY7Tpn,65,credit card,345,13/1/2012 3:58,749,Cäcilia,345
+51967,3rgi5H7g,34,credit card,346,14/9/2011 6:37,755,Eva,346
+20801,28Rviqp0,27,credit card,347,14/6/2011 2:00,756, Cäcilie,347
+51712,ih6RmUWh,42,credit card,348,5/11/2012 22:31,760,Maximiliane,348
+60265,w92VXAun,33,credit card,349,3/11/2011 13:03,761,Veronika,349
+25041,zNxS6ml5,24,credit card,350,5/10/2012 20:49,762,Walburga,350
+95836,4fx76BIW,49,credit card,351,1/1/2011 10:51,763, Klothilde,351
+52397,fTCWPuYd,76,credit card,352,7/2/2011 21:41,766,Sieglinde,352
+52628,6eSYlIJJ,41,credit card,353,28/1/2012 9:51,769,Cäcilia,353
+20069,hFr4nhjX,71,credit card,354,25/5/2012 13:13,771, Waltraud,354
+67346,0JbDpFTI,43,credit card,355,5/7/2012 5:34,772,Victoria,355
+46361,P2HEkPoi,44,cash,356,25/11/2011 6:10,773, Walburga,356
+43807,YEYnfgDQ,20,credit card,357,2/5/2013 6:06,779,Sabine,357
+70427,S5jIf47v,18,credit card,358,2/5/2012 18:11,780,Anna,358
+35235,DlHE0KbG,53,cash,359,12/6/2012 1:50,781,Antonia,359
+55511,uGdg8HuX,46,credit card,360,30/5/2012 4:26,782,Bernadette,360
+57638,Eaix7H1b,82,credit card,361,27/1/2011 11:16,784,Anna,361
+48902,hJV6pIKL,23,credit card,362,9/10/2012 19:40,790,Apollonia,362
+28556,wPGhhnoA,19,cheque,363,2/2/2012 19:12,791,Barbara,363
+67547,GkaDlXFS,68,cash,364,13/6/2011 18:44,795,Apollonia,364
+29795,CSooRpLP,42,credit card,365,28/4/2012 21:04,796, Kreszentia,365
+45238,71vABnjs,39,credit card,366,29/7/2012 1:29,797,Elisabeth,366
+80550,ZSgbd3KQ,73,cheque,367,16/7/2012 17:36,801, Margarete,367
+52403,mKaYvZby,50,credit card,368,27/3/2012 22:40,802,Ottilie,368
+57958,210LCbHt,22,cash,369,5/6/2012 15:40,809,Magdalena,369
+36222,X7hsubnG,20,credit card,370,30/1/2012 14:53,812,Katharina,370
+73650,EHE63QaR,47,cheque,371,21/12/2010 16:13,817,Burgunde,371
+61146,BHRbmBG0,40,credit card,372,29/1/2011 15:35,819,Georgine,372
+38658,fh9NmHbn,23,credit card,373,20/12/2011 15:21,820,Hannelore,373
+37038,YkGqEBcY,21,credit card,374,3/2/2013 1:40,825,Anna,374
+70061,GpAxlaQf,64,credit card,375,1/11/2012 16:14,827,Annemarie,375
+66735,i3cyYO5T,39,cash,376,19/9/2010 18:59,828,Anastasia,376
+38337,FlWk4pc0,80,credit card,377,16/3/2012 18:37,829,Apollonia,377
+32502,GlXuIBNN,38,cash,378,14/1/2011 3:57,830,Margaret,378
+76498,cabmK8ni,47,credit card,379,18/9/2010 7:40,831,Verena,379
+40211,vTa5gtGB,85,cash,380,23/12/2010 6:03,832, Kreszentia,380
+38748,35KT5qKJ,26,cheque,381,5/2/2012 5:36,833,Margaret,381
+46792,qzwNDfQU,69,credit card,382,1/1/2012 10:51,837, Rosemarie,382
+55746,wHh275mF,18,credit card,383,19/1/2013 2:18,839,Maximiliane,383
+30813,IaV8LWhH,18,credit card,384,7/5/2012 22:54,840,Bernadette,384
+71442,D0x9RSKN,40,credit card,385,17/8/2011 13:08,841,Katharina,385
+51590,z8mF5Azh,90,credit card,386,16/8/2011 19:14,842,Burgunde,386
+31324,UkAvVEOR,22,cash,387,30/7/2011 1:56,843,Wilhelmine,387
+65409,QTnxSy2W,36,cash,388,14/2/2012 22:39,845, Rosina,388
+63963,dgBsdhp8,57,credit card,389,28/4/2012 0:57,850,Irmgard,389
+42483,HjpQwvBx,51,credit card,390,27/3/2011 13:57,852, Birgit,390
+40497,OUAcaGfJ,63,cash,391,5/4/2011 9:22,854,Agnes,391
+59976,U6X1rqgu,22,cash,392,14/3/2013 18:55,855,Dorothea,392
+70119,BaDIalu0,33,cash,393,13/7/2010 13:10,858,Stefanie,393
+44066,dWyMpK2O,24,credit card,394,8/2/2012 16:33,859, Marlene,394
+38982,rslIqHw5,44,cash,395,21/6/2010 8:22,860,Burgunde,395
+37202,Q3hYvLDE,55,credit card,396,18/4/2012 12:07,862,Hildegard,396
+52545,vtqPRomS,60,credit card,397,29/9/2011 16:42,864, Cäcilie,397
+61923,XmWeSHa3,21,credit card,398,27/7/2012 14:29,866,Burgunde,398
+28283,mLVdYdBO,56,credit card,399,16/10/2010 23:15,869,Katrin,399
+93646,sgulbWJH,51,credit card,400,29/10/2012 20:00,874, Rosmarie,400
+46955,cTZLWxxP,33,cash,401,15/6/2011 10:08,879,Ottilie,401
+50636,vQJOJWtc,56,cash,402,8/1/2011 3:47,881,Apollonia,402
+48136,6G4zWWkD,61,credit card,403,6/2/2012 1:45,883,Gertrud,403
+34665,pCaMBaG6,91,credit card,404,21/2/2011 16:32,888,Maria,404
+26207,xNG27YQ2,44,credit card,405,8/9/2011 15:50,891,Cäcilia,405
+47276,TrAH1gPk,54,credit card,406,11/1/2013 0:38,894, Rosina,406
+30778,XCpo5Tzh,55,cash,407,5/11/2011 9:25,895,Magdalena,407
+43360,Lizi5rSf,20,cash,408,3/2/2011 19:31,904, Klothilde,408
+70849,OeIR5JWQ,41,credit card,409,18/8/2012 16:39,906,Gertrud,409
+32114,VnnvzNUc,30,credit card,410,25/10/2012 9:48,908,Lieselotte,410
+65906,FHr5Ot68,22,cheque,411,24/6/2011 7:24,911,Augusta,411
+42444,tAQsnNjn,17,credit card,412,19/12/2011 23:00,912, Cäcilie,412
+46243,kBtGPHli,66,credit card,413,19/2/2012 0:58,914,Franziska,413
+67865,rslIqHw5,74,credit card,414,22/10/2010 6:52,915,Creszenzia,414
+52448,ZdHwvfCs,49,credit card,415,25/12/2010 8:57,916,Franziska,415
+55026,nM1wa8nb,43,cash,416,28/10/2011 23:44,917,Augusta,416
+41807,6D2VeM7T,75,cash,417,4/6/2010 8:43,920, Waltraud,417
+39688,M0KFbg7V,52,cash,418,3/7/2011 11:38,921,Elisabeth,418
+73947,WMQcB9Hn,76,credit card,419,2/1/2011 7:33,925, Christina,419
+39258,imGPIAIz,80,credit card,420,1/4/2013 23:52,927,Cäcilia,420
+63834,Iw9t9jxM,41,cash,421,14/2/2011 0:40,928,Edeltraud,421
+46446,u5RyRaRh,65,cash,422,13/3/2011 19:30,929,Sophie,422
+21946,QKhGQTq6,51,credit card,423,13/6/2013 0:28,930,Anna,423
+48646,FjCT7NF8,28,credit card,424,13/12/2012 19:50,932,Ursula,424
+51849,PEjNsxdD,76,credit card,425,24/9/2011 22:16,934,Edeltraud,425
+48379,gkPbGRmx,58,credit card,426,13/11/2012 17:25,935,Apollonia,426
+41684,KKZLUbvs,53,credit card,427,14/5/2012 23:54,936, Kreszentia,427
+60421,GofO3xGl,28,credit card,428,2/1/2013 17:22,943,Therese,428
+26225,wHh275mF,19,credit card,429,13/7/2012 23:41,947, Klothilde,429
+52388,KGVlpn8K,36,credit card,430,11/2/2012 16:02,948,Ottilie,430
+75968,KYmSR2vE,69,cash,431,8/12/2010 20:49,949,Cäcilia,431
+59994,lipDk8MI,31,credit card,432,9/7/2012 11:02,954,Brigitte,432
+70285,1DV3f83o,78,credit card,433,17/9/2011 19:24,958, Walburga,433
+45239,tCO5Wx5Y,46,credit card,434,3/5/2012 3:41,962, Marie,434
+39535,M4f7DRys,26,credit card,435,5/3/2012 23:00,963,Anastasia,435
+59980,C5g6ifZj,50,cash,436,19/6/2011 8:21,964,Augusta,436
+60443,R9s3bCKc,21,credit card,437,1/1/2013 7:33,966,Waltraud,437
+53322,dXngQAKL,56,credit card,438,3/5/2013 19:51,967,Apollonia,438
+67456,3p6Q9p9B,76,credit card,439,23/1/2011 5:12,970,Hildegard,439
+78741,JN5vTby9,39,cash,440,1/7/2011 15:09,971, Birgit,440
+74109,bxF6fwXj,34,credit card,441,6/12/2012 2:05,973,Kunigunde,441
+71592,YvVWet3Y,48,credit card,442,17/11/2012 11:49,977,Ursula,442
+76001,hIoHR9yD,67,credit card,443,18/7/2012 18:31,981,Stefanie,443
+63378,OPkZVDS3,43,credit card,444,26/6/2011 21:06,985, Birgit,444
+20964,pXvDL0bK,24,credit card,445,4/2/2013 18:17,986, Kunigunde,445
+91024,Zgw914sP,58,cash,446,22/7/2011 1:43,990,Annemarie,446
+56572,1UOUsi3Z,34,credit card,447,17/12/2010 7:59,992,Scholastika,447
+58427,4HY6rffO,67,credit card,448,9/4/2013 13:06,996, Sophia,448
+47168,LdZvNRAt,18,credit card,449,8/12/2012 23:02,"1,000",Maria,449
+48117,NAdFk1Tr,61,credit card,450,7/2/2013 14:31,1, Benjamin,1
+41669,twPKVhgh,49,credit card,451,17/11/2012 10:59,2, Benno,2
+13826,9ntGGAsv,54,credit card,452,9/10/2013 15:47,5, Wolfram,3
+52371,N0kWz600,37,credit card,453,4/6/2012 19:11,8, Stephan,4
+47336,vponIBAp,43,cash,454,26/6/2011 13:14,10, Bernhard,5
+57030,20oBj60n,52,cheque,455,23/12/2010 11:54,11,Alfred,6
+77099,K2e75GKd,51,credit card,456,10/10/2010 16:19,13,Sebastian,7
+47943,mKShmzZe,62,credit card,457,5/8/2012 11:39,14, Bernhard,8
+40398,BUkdkv7j,51,cash,458,28/9/2011 9:51,15,Christian,9
+73759,7LD5QKiB,66,credit card,459,7/12/2010 14:33,18,Adolf,10
+50292,7vZ8bVca,54,credit card,460,2/10/2010 23:34,19,Eustachius,11
+56261,fUkuoOrN,70,cash,461,12/9/2011 11:58,24,Silvester,12
+35004,HWWTBf6e,44,credit card,462,20/1/2011 2:34,27,Kaspar,13
+46624,Ek3zONY4,70,credit card,463,21/1/2011 7:47,31,Albert,14
+42410,lsbbuWoz,48,credit card,464,30/6/2012 13:16,33,Benedikt,15
+66872,y1nBm0uq,59,credit card,465,21/3/2013 19:03,34,Eduard,16
+32125,GL3EKIXB,54,credit card,466,11/1/2013 18:41,36,Heinrich,17
+58135,BN3befSs,18,credit card,467,9/2/2014 21:33,40,Anton,18
+38400,H8tTp8Ky,19,credit card,468,28/10/2012 11:36,43,Christian,19
+40672,6ZvYkAYA,19,credit card,469,10/11/2012 7:54,46, Christoph,20
+21371,qIpY340n,36,credit card,470,6/11/2012 15:07,48, Alexander,21
+49575,RWDVb00w,27,cheque,471,23/5/2012 4:31,49,Lorenz,22
+31231,OiMvd9Yc,18,credit card,472,8/5/2012 15:26,50,Georg,23
+31454,ELmyVSAi,58,cash,473,2/5/2013 14:08,52,Jakob,24
+48009,yejS1Mzo,18,credit card,474,7/4/2012 6:20,53,Eustachius,25
+51324,85IIDJb3,36,credit card,475,29/11/2013 15:50,54, Matthäus,26
+46428,82BIkDkP,47,credit card,476,4/11/2012 0:40,55,Alois,27
+69865,qDo9W06U,52,credit card,477,7/9/2012 1:50,56,Melchior,28
+60330,2FlbPxHF,56,cash,478,14/4/2011 18:44,57, Dominik,29
+29221,NNbROgIt,35,credit card,479,26/4/2013 23:28,58, Christoph,30
+24440,xQwke1qY,29,credit card,480,26/7/2012 3:20,61, Christoph,31
+58540,XP8VoIk5,32,credit card,481,10/5/2012 11:18,62,Bartholomäus,32
+52955,AkJfkAuf,72,cash,482,28/9/2011 18:34,63,Ludwig,33
+47613,x1n8swtd,71,credit card,483,2/11/2011 16:08,64,Gottfried,34
+45567,F6yRqbEo,49,credit card,484,11/9/2012 9:02,67, Leonhard,35
+38455,3WW2RIh0,77,credit card,485,17/9/2010 7:59,68,Alois,36
+24685,1aFqs1yO,21,cash,486,17/11/2011 10:33,71,Leopold,37
+40852,UXNDaquE,29,cash,487,2/2/2012 0:26,72,Gregor,38
+69484,yk7RmqC3,47,credit card,488,19/2/2010 23:14,73, Johannes,39
+54133,FFHYrq2R,19,credit card,489,29/11/2012 16:57,74,Sebastian,40
+45103,wQjEDrl8,63,cheque,490,30/6/2010 1:33,75,Valentin,41
+34190,vmqGVieR,24,credit card,491,2/4/2012 10:08,76,(Franz) Xaver,42
+81622,gu5K6PC0,66,credit card,492,7/10/2011 11:01,80,Remigius,43
+70974,C6zIFfnV,23,credit card,493,8/3/2012 1:47,82,Laurentius,44
+45689,fYcLN1ti,45,credit card,494,1/7/2012 1:10,84,Reinhold,45
+65625,Lv6bHYMT,30,credit card,495,19/1/2012 2:17,85,Leopold,46
+49005,wHh275mF,72,cash,496,3/3/2011 21:24,88,Balthasar,47
+59033,HudYaD06,79,cash,497,2/5/2012 1:00,91,August,48
+18418,q0dOHlRd,46,credit card,498,26/5/2012 6:45,92,August,49
+58885,FHALZCAu,69,cash,499,13/12/2011 4:01,96,Laurentius,50
+15607,ygcF4CO1,55,cheque,500,15/5/2011 20:50,98,Christoph,51
+58176,IJ5eIqCU,27,credit card,501,19/6/2013 23:14,99, Hannes,52
+89514,1ku04YJG,25,cash,502,27/11/2010 7:40,102,Valentin,53
+60348,bGdHEYeB,38,credit card,503,22/11/2011 16:05,103,Remigius,54
+19635,hWWsbvFV,39,credit card,504,26/1/2012 3:06,108,Siegfried,55
+46792,eWjS5w8b,76,credit card,505,15/3/2011 3:03,110, Bernhard,56
+46349,SMstnaz9,34,cash,506,13/3/2012 10:30,111,Philip(p),57
+31280,80PGKjhR,52,cash,507,13/6/2010 4:19,113,Lukas,58
+44756,xj6Zgj6j,57,credit card,508,3/12/2011 1:35,115,Nikolaus,59
+63209,C5g6ifZj,23,credit card,509,14/9/2012 8:18,116, Laurentius,60
+57550,LoJIg9Xc,71,credit card,510,29/4/2011 14:37,118,Alfons,61
+70441,aCo8NJCD,58,credit card,511,20/3/2013 4:36,121,Alfons,62
+51710,OZ36TOSi,17,credit card,512,10/1/2013 17:43,123,Adolf,63
+41669,BjATVOv7,47,cash,513,31/8/2011 17:42,124,Alfons,64
+31894,AIOIGQsl,41,cash,514,8/9/2011 0:11,127,Matthias,65
+57822,YbRWLBNt,59,credit card,515,11/8/2013 2:35,128,Valentin,66
+48691,TkTaU6Ei,19,credit card,516,16/6/2011 11:04,129,Manfred,67
+41464,MFEnh7bK,18,credit card,517,11/6/2012 10:42,132,Alfred,68
+42002,ocLvIKIN,53,credit card,518,14/1/2013 10:52,133,Friedrich,69
+53455,qfqG0jwP,44,credit card,519,2/6/2012 15:01,136,Thomas,70
+57398,mC1mXZvF,33,credit card,520,5/3/2013 4:56,137,Anton,71
+58218,cD0f3l1e,28,cash,521,11/4/2012 13:23,139,Fridolin,72
+41219,RXev5Ebs,78,credit card,522,2/3/2011 6:45,140,Karl,73
+61552,Ge78zAAF,30,cash,523,19/9/2011 10:01,144, Adalbert,74
+30761,bGVBf0fv,51,credit card,524,11/3/2012 0:00,149,Rupert,75
+39409,HvzpxffH,39,credit card,525,19/9/2011 14:12,155, Laurentius,76
+46263,sST2q5dY,80,credit card,526,26/9/2010 8:02,156,Alfred,77
+22022,txwqlFrx,40,credit card,527,5/2/2012 18:14,158,Rudolf,78
+37031,5HsKGpu7,53,cash,528,25/11/2010 19:05,159, Stephan,79
+56543,IL0FQwuT,28,credit card,529,3/9/2012 7:00,160,Fridolin,80
+69146,KznIZlsO,87,credit card,530,26/5/2011 22:34,162,Gottfried,81
+42652,biBvW212,36,credit card,531,1/8/2010 5:10,163,Joseph,82
+46949,27GuyYYU,20,credit card,532,28/4/2012 5:04,164,Adolf,83
+24239,F72y4CHK,37,cash,533,29/10/2011 22:57,167,Eustachius,84
+56200,qfqG0jwP,55,cheque,534,7/8/2011 0:08,168,Konrad,85
+60428,jgTEURan,72,cash,535,23/9/2011 5:45,169,Franz,86
+24270,XhDRv5mi,55,credit card,536,24/12/2011 17:01,173, Bernhard,87
+76387,pM6ncCcg,36,cash,537,23/12/2011 13:43,174, Engelbert,88
+39822,L1KUkYjX,34,credit card,538,17/2/2012 23:38,177,Joseph,89
+68737,8C4swT2C,41,credit card,539,26/4/2012 21:11,179, Christoph,90
+27368,dee79fB6,17,credit card,540,29/7/2012 15:38,184,Karl,91
+19681,IOgbGQi6,30,credit card,541,9/5/2012 15:35,185,Simon,92
+59370,bItyHa6q,17,credit card,542,20/2/2012 1:04,188,Georg,93
+49474,DIw2K055,83,credit card,543,19/8/2011 18:22,189, Stephan,94
+40098,kKqv3Qja,46,cheque,544,29/2/2012 5:21,192,Melchior,95
+44021,vBuaPTLy,59,credit card,545,3/12/2010 19:16,194,Melchior,96
+67963,40jeoiUq,18,cash,546,23/6/2012 12:24,197, Mathias,97
+26742,xOYD8deg,28,credit card,547,2/5/2013 6:57,200,Ludwig,98
+26349,osRHYXPI,26,cash,548,4/7/2012 20:09,203, Nepomuk,99
+75265,CDMLQ1KZ,33,credit card,549,15/11/2010 11:08,204,Adolf,100
+52623,Ff3lZmg5,21,credit card,550,23/2/2012 5:26,205,Martin,101
+52035,RMeJtZch,55,cash,551,1/10/2011 19:29,206,Nikolaus,102
+28681,WQM9A4KR,68,cash,552,18/1/2011 9:19,208, Edmund,103
+35230,LDm6Dsk4,29,credit card,553,25/10/2012 19:49,209,Valentin,104
+40374,p5GybWYd,32,credit card,554,30/8/2011 17:31,211,Sebastian,105
+26091,9tYOT2au,57,cash,555,26/7/2011 20:01,212,Friedrich,106
+51596,BWpxSlU4,63,credit card,556,5/3/2012 4:18,215,Anton,107
+62613,oTZDktHt,47,cash,557,4/1/2011 11:12,216,Kaspar,108
+70219,5DEhdw4r,31,credit card,558,22/8/2011 4:56,219,Dionysius,109
+47321,lvzkCIBX,27,cash,559,14/2/2013 4:59,220,Korbinian,110
+40261,mhlXMfhk,18,cash,560,8/10/2012 13:00,221,Rupert,111
+67859,gXZ8rO9p,51,credit card,561,19/7/2011 12:17,223,Anton,112
+80650,8UVYIdiq,17,credit card,562,26/1/2013 9:53,225,Bartholomäus,113
+51280,aLkVKMxb,48,credit card,563,2/11/2011 7:41,226, Adalbert,114
+42537,3JCDKir5,25,credit card,564,27/7/2012 20:10,230,Korbinian,115
+51589,bc50enYj,42,cash,565,17/8/2011 0:05,232,(Franz) Xaver,116
+49758,Qio3jgCL,42,credit card,566,6/7/2011 11:19,233, Mathias,117
+54399,pESQsFYn,49,credit card,567,26/8/2013 12:53,234,Balthasar,118
+35508,egiVEO2C,47,cash,568,10/6/2012 11:57,236,Andreas,119
+61045,adpRucto,45,cash,569,4/9/2011 11:36,237, Edmund,120
+66636,cue1J9YL,49,credit card,570,27/1/2011 10:11,240,Ignaz,121
+42795,9EepdQKj,34,credit card,571,3/9/2012 13:29,242,Fidelius,122
+47525,gFe84siO,39,credit card,572,1/11/2013 7:52,243,Silvester,123
+55815,y1z7Sd0F,29,credit card,573,1/7/2012 15:20,244,Rudolf,124
+50494,6RKmTzjy,32,cash,574,24/11/2010 12:05,245,Joseph,125
+89337,geHmvFIs,25,cash,575,23/6/2012 3:34,248, Bernhard,126
+28187,ITG46Krv,21,credit card,576,24/4/2013 11:28,249,Remigius,127
+46367,jNO6ylgr,57,cash,577,13/12/2010 23:33,252, Hannes,128
+50409,rRigKXZl,64,credit card,578,25/9/2011 23:22,257,Thomas,129
+44191,83d7eRMo,51,cash,579,6/12/2011 2:58,258,Laurentius,130
+35597,z3POfQ5L,24,credit card,580,8/2/2013 23:06,259,Michael,131
+45272,2rBtu6uh,60,credit card,581,2/5/2012 7:48,260, Dominik,132
+60164,8LWL2ga0,35,credit card,582,9/9/2012 21:54,261,Franz,133
+64198,Xvhgq6In,54,credit card,583,5/4/2012 0:00,263, Reinhard,134
+40446,WMQcB9Hn,55,cash,584,19/6/2011 7:48,264,(Franz) Xaver,135
+60089,c1jjHk7X,40,cash,585,21/5/2013 18:40,265,Melchior,136
+77274,8VREZhhZ,43,cash,586,15/11/2012 14:25,267,Nikolaus,137
+49592,XmHhZdhj,91,credit card,587,1/2/2012 2:07,272, Benjamin,138
+36272,r37KPWWf,40,cash,588,8/2/2012 9:28,273,Valentin,139
+30636,FeFTZoBg,51,cash,589,16/8/2011 17:57,275,Christian,140
+58790,cblOSGwv,46,credit card,590,22/1/2012 9:01,277, Berthold,141
+92029,0dFBEzCp,76,cash,591,7/7/2013 4:33,279,Alfons,142
+39394,F2MYhfRt,54,cash,592,13/2/2011 11:59,281,Bernd,143
+45729,ccVSKQn6,17,credit card,593,3/7/2012 22:24,282,Quirin,144
+60783,GcdANJZ9,21,cheque,594,19/10/2011 4:40,283,Adolf,145
+90336,nq4LkgfH,18,credit card,595,14/1/2012 22:03,286,Reinhold,146
+64400,DTabIQ8M,20,credit card,596,27/7/2012 16:58,288,Matthias,147
+51655,G1c0kZqQ,27,cash,597,12/1/2012 2:11,292,Ferdinand,148
+38006,Anakdu8V,28,credit card,598,8/9/2011 20:43,293,Martin,149
+68770,x1n8swtd,44,credit card,599,8/3/2011 15:04,294,Georg,150
+19111,Mwnp91Qm,21,credit card,600,15/5/2013 5:36,295,Maximilian,151
+69546,0JbDpFTI,32,cash,601,25/6/2013 23:05,296, Johannes,152
+48232,a581F8G8,37,cash,602,18/9/2011 14:24,297, Herbert,153
+52544,A2KMLVHQ,18,cash,603,8/6/2011 21:31,298,(Franz) Xaver,154
+47553,WPDcMcD3,89,credit card,604,11/7/2011 16:00,305,Georg,155
+15024,ofnLhsJr,41,credit card,605,13/7/2012 23:36,306, Herbert,156
+38543,GL0O9BkK,72,cash,606,21/12/2011 10:04,307, Alexander,157
+52846,joCQ5blJ,29,cheque,607,26/11/2011 2:47,308,Thomas,158
+36093,48ejwW8C,46,credit card,608,7/11/2012 22:51,309,Alois,159
+54446,JRUwG50V,61,cash,609,30/5/2011 2:53,310,Melchior,160
+53362,l7yL3X2p,20,credit card,610,15/3/2013 2:30,313,Stefan,161
+43429,XE5S1xe9,45,credit card,611,27/4/2012 21:07,314, Alexander,162
+42028,uWJsnxrs,62,credit card,612,28/2/2011 23:08,317, Hartmut,163
+67218,tzZOdNNz,51,credit card,613,21/4/2013 15:20,321,Stefan,164
+38695,xdjkCxXu,74,credit card,614,12/11/2012 18:31,322,Silvester,165
+54172,M2gebuP9,48,credit card,615,15/7/2013 4:38,325,Silvester,166
+45987,8TvDS9GP,28,cash,616,16/5/2013 1:38,329,Fidelius,167
+33865,Kc361UEC,46,credit card,617,4/12/2012 23:42,330,Martin,168
+33871,6AMxtCXu,32,credit card,618,25/9/2011 12:09,333,Matthias,169
+35761,DyX2oo6y,53,cash,619,21/3/2011 4:35,334,Rupert,170
+40103,QZNLpGKp,57,credit card,620,21/10/2011 19:39,335, Benjamin,171
+44088,YPzB9wep,22,cash,621,17/4/2012 16:29,336, Christoph,172
+67735,Rv3TbHnx,49,credit card,622,11/12/2011 22:40,337,Sebastian,173
+47988,xSmRRo8l,63,credit card,623,13/12/2011 11:40,340,Blasius,174
+65403,MSwC9s91,90,credit card,624,19/11/2013 20:58,341,Gottfried,175
+48606,VTcgeeFy,57,cheque,625,24/12/2010 11:04,345,Gregor,176
+66950,HuETIuK1,28,credit card,626,18/7/2012 7:57,346,Joseph,177
+50461,f8cyH1Sq,17,cash,627,25/4/2011 19:18,347, Mathias,178
+38314,MFEnh7bK,50,cash,628,21/3/2011 21:46,348,Fidelius,179
+73446,07qYU3UO,51,credit card,629,11/6/2012 1:45,349,Gottfried,180
+40913,crPUYdcS,74,credit card,630,12/7/2013 16:58,350,Adolf,181
+80818,mcuzmLS9,73,credit card,631,30/6/2011 10:40,353,Reinhold,182
+36660,aaW8qFWn,52,cash,632,9/5/2011 3:22,354,Franz,183
+55935,cF9UWaPC,52,credit card,633,1/8/2011 20:29,355,Quirin,184
+77118,aFcQXWKe,19,credit card,634,24/2/2014 19:17,358,Matthias,185
+85308,a2GnVaW8,54,cash,635,13/6/2011 10:20,359, Christoph,186
+29697,5KujlJwH,26,credit card,636,11/10/2012 9:30,360,Andreas,187
+72128,mS6tIbdQ,25,cheque,637,8/1/2011 12:34,363, Christoph,188
+61892,KJ6hj6sI,42,credit card,638,27/12/2011 10:15,364,Blasius,189
+28282,ocLvIKIN,78,cash,639,30/9/2010 9:51,365, Adalbert,190
+43368,CSOce7KM,34,credit card,640,20/8/2012 3:46,366,Leonhard,191
+40580,pIITnvn2,19,credit card,641,12/4/2013 5:05,367,Christoph,192
+42846,9ClyAwcK,27,cash,642,11/4/2013 18:05,368,Stefan,193
+35669,p7iVK0st,81,credit card,643,6/9/2012 0:29,369, Edmund,194
+43143,ZG4oIMce,32,cheque,644,11/4/2011 0:33,370, Mathias,195
+54630,fMiscyUn,70,cash,645,18/5/2012 15:16,371,Peter,196
+34991,KhYWNyXV,23,credit card,646,30/8/2012 2:43,373,Joachim,197
+66583,5KX1YG47,17,credit card,647,23/6/2013 12:49,375,Manfred,198
+49110,1nPzxvzv,19,cash,648,23/10/2012 11:14,376, Mathias,199
+53027,dbni56Jc,42,credit card,649,11/3/2011 4:56,377, Leonhard,200
+49973,SswVQQan,27,credit card,650,27/5/2012 8:53,380,Marinus,201
+50791,8PXbWrBz,57,credit card,651,4/5/2011 14:15,381,Kaspar,202
+99575,I7QHVREl,57,credit card,652,3/12/2011 5:46,383,Lorenz,203
+62370,qEgENbk8,67,cash,653,20/5/2011 17:09,384,Lukas,204
+36906,EBYhau19,63,cheque,654,9/7/2012 3:44,386, Engelbert,205
+17193,H57aDBgM,40,credit card,655,8/5/2011 16:26,389, Hartmut,206
+59105,luG6I4xE,21,cash,656,15/3/2012 23:22,391, Benjamin,207
+27739,GRGGenRP,58,credit card,657,1/4/2011 22:49,392,Manfred,208
+38030,1lq6CER9,23,cash,658,15/11/2012 14:15,394,Alois,209
+33937,cD0f3l1e,76,credit card,659,16/8/2011 0:02,395,Joseph,210
+21273,gYZr4Ubb,73,cash,660,20/6/2011 6:26,396, Bernhard,211
+65779,ZWllOgnR,40,cash,661,13/6/2012 18:38,397,Quirin,212
+33334,vyLYrSRA,33,credit card,662,4/2/2012 19:24,400,Christian,213
+36325,ac0GDNIY,54,credit card,663,19/9/2012 15:47,402,Vinzenz,214
+49967,nebDykfo,17,credit card,664,9/9/2013 23:15,403,Florian,215
+34635,7GDdhe6R,51,cash,665,2/3/2011 19:10,404, Wolfram,216
+33149,7po3yYKG,48,credit card,666,16/2/2011 22:01,407,Florian,217
+78662,ciyztJx7,43,credit card,667,20/8/2012 10:23,408, Christoph,218
+58968,TswO1yYT,36,credit card,668,23/3/2012 13:46,409,Gottfried,219
+69095,ZZ7rw34u,22,credit card,669,10/6/2013 18:07,410,Alfons,220
+10807,3WW2RIh0,62,credit card,670,12/7/2012 2:18,411,Joseph,221
+48179,VBdUMH6m,43,credit card,671,3/12/2011 9:10,413,Alfons,222
+41039,I6qhUCCn,42,credit card,672,11/2/2013 7:24,416, Mathias,223
+46123,jM5B2Oy6,22,cash,673,12/11/2013 1:30,417,Johann,224
+50442,GfCBBftm,64,credit card,674,13/9/2012 7:05,418,Georg,225
+40841,rRigKXZl,34,cheque,675,20/12/2011 0:36,419,Andreas,226
+37897,hWwmr5HF,42,credit card,676,31/8/2011 6:51,421,Dionysius,227
+48497,210LCbHt,19,cash,677,20/12/2010 3:22,422,Christian,228
+69730,sS2vCT52,36,credit card,678,2/10/2012 18:36,425,Thomas,229
+29475,fQVWJq3J,39,credit card,679,30/5/2013 23:32,426,Remigius,230
+67645,irm9nykP,83,credit card,680,23/9/2011 20:55,427,Sebastian,231
+30163,ofLXWIrf,28,credit card,681,21/5/2012 17:43,430,Quirin,232
+44961,DccmZtIo,68,cash,682,10/9/2011 3:58,431,Silvester,233
+44647,t70fywzH,48,credit card,683,19/10/2012 2:15,432,Siegfried,234
+82609,pCUO5AGa,60,credit card,684,22/12/2011 13:39,433,Martin,235
+1,Zqrmm6Jw,76,credit card,685,28/2/2012 23:36,434,Alexander,236
+55044,HjX4YiFL,50,cheque,686,1/7/2011 3:12,435, Benno,237
+61102,xE1iyLHy,21,credit card,687,26/4/2012 19:40,438,Lorenz,238
+86102,99G9OUES,46,credit card,688,17/10/2010 9:01,439,Balthasar,239
+49061,xj6Zgj6j,35,credit card,689,20/8/2013 2:43,441,Alfons,240
+40411,JtQrYJwi,27,cheque,690,7/8/2012 7:58,443,Matthias,241
+58408,EslM5G94,39,credit card,691,13/9/2012 15:35,445,Rupert,242
+53729,z2Rmelov,61,credit card,692,21/10/2012 23:33,446,Fridolin,243
+33908,RWRfvJjq,20,credit card,693,30/11/2011 22:10,449,Johann,244
+66781,kYI12cAZ,22,credit card,694,1/7/2013 10:23,450,Valentin,245
+89052,bbY8Fobr,53,credit card,695,18/6/2011 23:05,451,Georg,246
+42188,vXlDIOis,20,cash,696,2/9/2013 15:43,452,Christoph,247
+42900,yqcZ35WH,34,credit card,697,5/9/2012 9:00,453,Jakob,248
+50234,v68rHD96,52,credit card,698,14/7/2012 13:19,454,Lorenz,249
+67018,4w0WWg2R,36,credit card,699,20/5/2012 21:03,455, Stephan,250
+27575,UFFbeEhx,52,credit card,700,5/7/2011 11:15,458, Johannes,251
+51401,n6jgalc6,28,credit card,701,24/1/2013 6:54,461, Edmund,252
+26401,XLvx37Vw,40,credit card,702,21/11/2012 15:37,464,Vinzenz,253
+49118,sVoaunIJ,32,credit card,703,11/7/2012 4:36,466,Maximilian,254
+50694,kauPYUXF,18,credit card,704,6/12/2012 7:16,470,Vinzenz,255
+65104,MjSWItFY,22,cheque,705,11/5/2012 6:33,471, Reinhard,256
+39544,iHZMq1Dw,81,credit card,706,20/8/2011 20:06,473, Stephan,257
+36898,jKJHI0CQ,52,cash,707,12/4/2012 18:32,476,Leonhard,258
+52874,6FH0rCkG,76,credit card,708,24/1/2011 22:34,477,Leopold,259
+51970,OHIF3ecs,43,credit card,709,9/10/2012 23:58,478,Christian,260
+64819,cIvQkgwM,23,credit card,710,5/4/2012 22:40,479, Matthäus,261
+63650,g5E0bl15,34,credit card,711,11/4/2011 4:46,481,Sebastian,262
+42954,dXngQAKL,38,credit card,712,3/12/2011 16:54,482,Ferdinand,263
+32199,SswVQQan,33,credit card,713,28/11/2011 19:58,483,Simon,264
+63542,1rZ9h8m4,48,cash,714,21/4/2012 18:39,484,Matthias,265
+77703,QEWjfNrr,41,cash,715,18/11/2011 0:40,485, Laurentius,266
+79357,vlxRfaAW,78,credit card,716,31/8/2011 7:27,486,Ferdinand,267
+46667,FPZMcUao,51,credit card,717,18/3/2012 7:20,491,Silvester,268
+46028,QC0PxkTj,42,credit card,718,8/10/2012 0:47,493,Eustachius,269
+30342,k724vTmh,72,cash,719,3/2/2011 20:03,495,Peter,270
+57700,5oVbIxrx,20,cash,720,23/10/2011 21:46,497,Konrad,271
+64284,Ok4kXMgV,69,cash,721,26/3/2011 11:25,498,Leopold,272
+34370,mER1zSfB,37,cash,722,19/4/2011 2:25,505,Michael,273
+52589,LhERqe5J,45,credit card,723,17/3/2011 2:13,506,Ignaz,274
+33541,0D0bfb8u,77,credit card,724,7/1/2011 22:41,511,(Franz) Xaver,275
+57524,0jaf6gIe,79,credit card,725,22/4/2011 17:13,514,Franz,276
+40655,uCiES69C,56,credit card,726,30/3/2012 8:04,515,Georg,277
+84612,4n3ks5VY,44,credit card,727,5/10/2012 20:27,516,Vitus,278
+27870,dFKJcT7m,30,cash,728,13/9/2012 20:17,518, Hannes,279
+60075,lJC8cDTW,50,cash,729,30/10/2011 10:01,519,Eduard,280
+53043,PtELzyxg,57,cash,730,12/11/2010 19:14,520,Alois,281
+37886,LXKILJTG,42,credit card,731,6/3/2013 11:16,521,Albert,282
+87301,Yl0ue0eM,64,cash,732,17/5/2011 1:12,522,Marinus,283
+49269,dtH1ihHJ,50,cash,733,30/9/2012 9:02,524,Christoph,284
+38072,CUvQEq7g,28,cash,734,19/10/2012 5:07,527,Georg,285
+65029,t4NN8r4z,50,cash,735,18/6/2013 10:49,529, Wolfram,286
+43119,b9Dn6Xb4,41,credit card,736,19/5/2012 5:28,533, Hartmut,287
+53130,ZZ7rw34u,64,credit card,737,8/2/2011 17:14,534, Christoph,288
+61905,MC2LD1Ms,81,credit card,738,3/6/2012 9:53,535,Korbinian,289
+53376,dtH1ihHJ,48,cash,739,26/12/2011 2:19,537,Alois,290
+64542,fOuMHIH0,84,credit card,740,1/11/2011 21:22,538, Edmund,291
+34249,YliWRuTy,29,credit card,741,14/3/2012 9:07,539,Quirin,292
+11286,TjL385ah,26,cash,742,19/5/2013 9:15,541,Ludwig,293
+76021,1L33JVVK,42,credit card,743,31/1/2012 12:36,542,Albert,294
+33216,kqenXy0G,40,credit card,744,3/11/2010 9:39,546, Laurentius,295
+63945,JZWWtfKn,79,credit card,745,8/9/2011 18:31,547,Lukas,296
+62107,RDqQR6Xo,70,credit card,746,24/12/2011 4:09,548,Sebastian,297
+83142,fIIM6VM5,51,cheque,747,31/8/2010 10:15,550,Eustachius,298
+41329,uBiX2XWM,24,cheque,748,22/2/2011 6:27,552,Franz,299
+43452,9OAhFH6n,17,credit card,749,8/11/2011 8:01,554,Alfons,300
+64133,QBldBkBq,17,credit card,750,17/4/2012 18:32,555,August,301
+49927,oXY8wGdL,18,credit card,751,27/9/2012 2:19,562,Vitus,302
+32767,62jGqDaT,45,credit card,752,1/1/2013 8:18,563,Ludwig,303
+56563,AbTaRbkz,51,cash,753,15/11/2011 23:15,564, Nepomuk,304
+32837,WRQSfr85,17,credit card,754,28/3/2012 8:32,567,Heinrich,305
+91027,jtT33Ykn,74,credit card,755,7/6/2011 18:40,568,Heinrich,306
+33983,dYQHApCw,35,credit card,756,14/3/2011 4:12,571,Gregor,307
+60732,bjRZxSES,19,cash,757,1/12/2012 15:58,575,Georg,308
+65557,8QI6TD3s,24,credit card,758,20/11/2012 4:33,576,Alois,309
+28595,yk7RmqC3,58,credit card,759,24/11/2012 1:01,580, Hubert,310
+72772,mKaYvZby,45,credit card,760,11/10/2011 23:59,581,Martin,311
+28553,mgyVZXbh,43,credit card,761,3/1/2011 14:34,582,Georg,312
+80391,RziSbNhF,76,cash,762,11/8/2011 23:18,583,Kaspar,313
+36933,NAdFk1Tr,58,cash,763,24/9/2012 8:55,585, Adalbert,314
+39032,nOqAPzqj,33,cheque,764,17/3/2013 6:47,586, Benno,315
+62427,tpxwJRrU,81,cash,765,4/4/2010 19:20,587, Hubert,316
+49337,b8SO66Si,20,credit card,766,25/8/2012 13:34,589,Sebastian,317
+77479,sRQ1SlHw,52,cash,767,29/6/2011 15:37,592, Hannes,318
+26537,I1loIbea,22,cash,768,1/4/2012 17:00,597, Reinhard,319
+30900,QW3zS8Uk,18,credit card,769,25/7/2012 6:06,598,Leopold,320
+69102,w5494UNZ,65,cash,770,27/8/2012 21:44,600,Rupert,321
+52589,O9eRgULL,17,credit card,771,18/2/2013 23:32,601, Mathias,322
+38976,ghQ7LDsC,29,credit card,772,1/11/2012 16:39,603,Alois,323
+43258,joEpLf0I,72,credit card,773,11/4/2011 1:17,605, Christoph,324
+46951,fya0KpSq,39,cash,774,16/2/2012 5:53,606, Bernhard,325
+48264,ewFKv4hj,33,cheque,775,4/12/2013 13:59,608,Bernd,326
+63369,90b2hpAW,52,credit card,776,19/10/2011 18:37,610,Heinrich,327
+49306,VfhBsG5n,62,credit card,777,22/11/2012 0:36,611, Berthold,328
+62064,XE5S1xe9,17,credit card,778,2/12/2012 18:53,613, Bernhard,329
+30018,aBtmalCM,30,credit card,779,21/5/2012 21:12,615,Rudolf,330
+43859,wRix0FdL,30,credit card,780,31/10/2011 4:24,616, Bernhard,331
+62682,sUcNBw7u,59,cash,781,20/11/2011 11:34,620,Franz,332
+54206,J3TZwtTB,40,cash,782,8/5/2013 21:17,621,Stefan,333
+38655,dKjQRsZi,26,credit card,783,3/10/2012 15:05,622, Reinhard,334
+48891,HffKh3gn,51,credit card,784,21/6/2013 13:12,623,Manfred,335
+58251,R2bV1P8j,59,credit card,785,24/5/2012 7:51,624,Simon,336
+78942,gG2mF06W,30,credit card,786,6/10/2012 22:28,625,Alois,337
+43132,pPtaNhzB,54,cash,787,17/9/2011 14:21,628, Wolfram,338
+52829,VUm2JBxY,39,credit card,788,10/6/2013 22:10,629,Konrad,339
+70737,XMDsRKKc,37,credit card,789,14/12/2012 6:43,632,Ferdinand,340
+49215,qgfMTEmo,37,cheque,790,11/11/2011 2:02,634,Philip(p),341
+54257,Q8sH3k5x,43,cash,791,25/6/2011 0:49,635,Heinrich,342
+78568,BYv0hFhr,42,cash,792,26/10/2010 19:56,636,Christian,343
+54019,zPlL3DcR,36,credit card,793,24/6/2012 22:15,638,Peter,344
+32241,Z3hU8hN5,43,cash,794,31/5/2011 17:11,640,Georg,345
+47569,iDJc56xm,30,credit card,795,6/1/2013 3:33,643,Joseph,346
+39697,Ax20kLFg,38,credit card,796,13/7/2011 8:32,645,Adolf,347
+86731,84hLtkHj,67,credit card,797,16/7/2012 15:23,648,Michael,348
+62937,JtQrYJwi,18,credit card,798,2/9/2012 19:32,652,Kaspar,349
+47804,IMysMbpl,71,cash,799,26/2/2011 13:25,653,Dionysius,350
+23746,cujNb6GQ,45,cheque,800,18/2/2012 4:25,656,Ferdinand,351
+73437,ui2eoGFc,59,credit card,801,9/12/2010 6:04,658,Alfred,352
+61534,HdccLHtu,39,credit card,802,23/9/2013 0:18,659,Alexander,353
+60310,0gRpzmdn,41,credit card,803,21/7/2012 20:14,662, Reinhard,354
+65092,FtGlaAO8,70,cash,804,26/10/2011 0:01,663,Ignaz,355
+24626,LysE8Bjg,31,cash,805,2/1/2013 1:46,665,Christian,356
+51913,BOl2gvcX,91,credit card,806,14/8/2011 13:28,667,Konrad,357
+24389,3dMh98zG,59,credit card,807,30/1/2013 16:52,668, Edmund,358
+59259,cQxVAmeI,47,credit card,808,17/7/2012 9:32,670,Quirin,359
+44254,foJr9t5u,56,credit card,809,22/1/2011 20:26,671,Siegfried,360
+30851,betRn5YN,44,cash,810,17/11/2011 14:18,673,Georg,361
+51526,AHHxc9kM,78,credit card,811,19/7/2011 6:26,674,Silvester,362
+33921,rxi2psQB,35,credit card,812,3/3/2011 22:14,675,Vitus,363
+53939,bItyHa6q,27,credit card,813,18/8/2013 20:20,678,Valentin,364
+52925,qERLGCdj,57,cash,814,6/6/2011 6:31,679,August,365
+61009,zhkSv1Ke,21,credit card,815,25/6/2012 1:26,680,Wolfgang,366
+62584,UzKcxBaP,53,credit card,816,6/3/2013 20:13,682,Blasius,367
+60803,9FL9XdqV,90,credit card,817,27/1/2012 6:49,683,Ignaz,368
+26753,iXGT9vAo,32,credit card,818,23/9/2013 6:20,685,Korbinian,369
+60180,3bgeC6rr,41,cash,819,14/3/2012 19:57,690,Franz,370
+55954,2d934Bu7,47,credit card,820,5/12/2011 12:56,691,Ignaz,371
+27168,BtCY2Neh,90,credit card,821,24/10/2011 17:23,692,Anton,372
+43205,z0VM3gps,72,cash,822,26/9/2011 2:37,696, Engelbert,373
+41534,9SmKpcM1,42,cash,823,18/4/2011 12:35,697,Joachim,374
+64283,atMTm4DU,59,cheque,824,14/5/2011 3:22,698,Blasius,375
+58383,v0VSwLW8,29,cash,825,23/12/2012 5:31,699,Stefan,376
+66555,U87clKzw,39,credit card,826,11/11/2012 22:53,701,Bartholomäus,377
+69803,t6LssDc4,41,cheque,827,4/4/2012 21:14,702,Remigius,378
+58653,efYQpP8S,28,cash,828,11/4/2011 19:09,703, Berthold,379
+41811,6hJExwDv,72,credit card,829,21/10/2013 8:31,706,Vitus,380
+47473,VVYiedd1,45,cheque,830,28/2/2012 17:51,709,Georg,381
+34700,LjEwgghy,26,credit card,831,8/8/2013 22:54,710, Edmund,382
+30742,sBQiXOZp,29,credit card,832,6/8/2013 9:50,711,Christian,383
+66489,PxF8RGF9,28,credit card,833,8/8/2012 8:48,714,Simon,384
+61250,Lp7fHHX7,21,credit card,834,3/2/2012 7:15,715,Bernd,385
+49624,G35yodto,40,credit card,835,10/4/2013 11:43,716,Karl,386
+58513,FGIAqKvd,85,credit card,836,5/1/2012 11:02,718,Eduard,387
+48561,R9WZiAue,50,credit card,837,26/2/2013 7:22,719,Eduard,388
+66510,qdshQwdW,21,credit card,838,28/9/2012 18:37,721,Sebastian,389
+37971,GgEMzGeT,60,credit card,839,26/12/2010 17:27,722, Matthäus,390
+27734,gLLx35l1,76,cash,840,26/12/2012 6:26,725,Leopold,391
+49560,oTZDktHt,84,credit card,841,24/12/2011 8:36,726,August,392
+42646,vaBGs2wG,49,credit card,842,12/2/2012 0:34,727,Matthias,393
+64855,pXvDL0bK,39,cash,843,4/10/2011 20:38,728, Berthold,394
+70783,UAIsrQB1,17,credit card,844,25/10/2012 9:53,730,Ferdinand,395
+23851,UtVqhmSO,54,credit card,845,31/8/2010 15:40,731, Dominik,396
+48600,kXtbwzs3,64,cash,846,3/5/2013 15:49,734,Vinzenz,397
+66295,kauPYUXF,32,cash,847,26/11/2012 9:08,735, Christoph,398
+63033,VUQa3oh2,35,cash,848,10/2/2013 5:41,740,Vitus,399
+28003,wYWMkBR1,34,cash,849,4/2/2013 21:09,741,Peter,400
+99999,kFRWAgVk,33,credit card,850,5/1/2012 19:10,742,Adolf,401
+50974,XWHLfcAs,22,credit card,851,6/11/2012 7:20,745,Korbinian,402
+43939,VsbDHkXI,73,cheque,852,2/4/2012 2:32,746,Karl,403
+76903,oHbgmBfM,39,credit card,853,8/2/2012 19:10,747,Bernd,404
+44793,G1c0kZqQ,47,cash,854,13/6/2012 12:31,750,Wolfgang,405
+53954,Kk9r7cFY,26,credit card,855,7/10/2013 3:18,751, Berthold,406
+42615,C6ydBL3k,67,cash,856,2/1/2012 17:17,752,Ludwig,407
+46698,Xl4Rzb3l,52,credit card,857,8/7/2013 10:49,753,Korbinian,408
+54270,vtqPRomS,23,credit card,858,17/2/2013 5:16,754,Leopold,409
+66121,0JhOQ8Qd,61,cash,859,19/7/2012 13:57,757, Leonhard,410
+51185,zD2BIz5J,55,credit card,860,7/4/2013 0:26,758,Ludwig,411
+59439,cujNb6GQ,71,cheque,861,5/7/2012 13:50,759, Benno,412
+56726,M7k3Q56M,42,credit card,862,8/7/2011 16:57,764,Anton,413
+63864,PtELzyxg,42,credit card,863,16/4/2013 14:38,765,Friedrich,414
+40400,ORbs0Lvf,69,cash,864,3/2/2012 18:48,767, Mathias,415
+59787,CG3hseQg,34,cash,865,27/11/2012 16:56,768,Balthasar,416
+23320,hrYVKtik,20,credit card,866,10/11/2012 15:58,770,Florian,417
+49695,8TyhrvGv,86,credit card,867,19/7/2011 7:35,774,Joseph,418
+24888,40xiWgv9,44,cheque,868,7/12/2012 2:54,775, Hartmut,419
+50237,iD6rf8X0,83,cash,869,27/2/2012 8:16,776,Leopold,420
+70795,K2SwvDUq,25,credit card,870,20/11/2012 15:00,777,Albert,421
+39874,4SM4YBZJ,45,cash,871,25/1/2011 10:17,778,Bartholomäus,422
+50286,KHQtO7w3,19,credit card,872,11/10/2012 21:14,783,Simon,423
+53800,irdKbEjp,45,credit card,873,4/12/2012 20:53,785, Mathias,424
+16287,ZWllOgnR,43,credit card,874,29/3/2011 3:37,786,Rupert,425
+36385,b6OHSgJp,31,credit card,875,16/5/2013 0:21,787, Benno,426
+43806,YliWRuTy,90,cash,876,20/7/2011 7:27,788,Stefan,427
+52813,vlxRfaAW,20,credit card,877,5/9/2012 22:12,789,Remigius,428
+47047,a2PoJ8ki,56,credit card,878,8/12/2012 9:01,792,Manfred,429
+39874,xO44WLs3,61,credit card,879,8/5/2011 7:53,793,Georg,430
+64312,K6kMxuJP,20,credit card,880,7/2/2012 17:15,794,Matthias,431
+39757,hf5hPzp3,25,credit card,881,18/9/2012 2:27,798,Lukas,432
+51205,fwjpXA4a,45,cash,882,15/12/2012 1:20,799,Andreas,433
+54545,Rv3TbHnx,38,credit card,883,14/6/2012 23:48,800,Anton,434
+60887,0JhOQ8Qd,37,cheque,884,16/1/2012 19:46,803,Vinzenz,435
+46154,0umdDpXY,44,credit card,885,1/8/2012 16:56,804,Ludwig,436
+50300,9g6VmGea,51,credit card,886,21/9/2012 5:00,805,Martin,437
+52384,QEKAlp1B,27,credit card,887,25/10/2012 9:07,806, Herbert,438
+77948,GVyk9T3k,42,cash,888,20/11/2011 9:11,807,(Franz) Xaver,439
+60214,kPllLZRN,37,credit card,889,24/5/2012 21:40,808,Melchior,440
+62265,iQ7emDBS,20,cash,890,10/11/2012 8:04,810,Remigius,441
+36295,Hps22IPl,55,credit card,891,8/3/2011 4:54,811,Georg,442
+45682,goLdUeh8,64,credit card,892,12/11/2012 4:31,813,Joachim,443
+35853,hydgaqUB,56,credit card,893,18/11/2011 11:52,814,Maximilian,444
+56713,QEWjfNrr,66,cash,894,16/12/2011 0:59,815,Friedrich,445
+78832,QbYO4GWz,69,credit card,895,19/4/2012 2:21,816,Jakob,446
+48859,luwY0LvJ,89,cash,896,12/9/2012 5:28,818,Karl,447
+50719,7N8iQldz,41,credit card,897,4/12/2012 0:06,821,Anton,448
+45436,Xs7QOvjj,48,credit card,898,1/7/2012 14:19,822,Ludwig,449
+59830,4pEvG68d,38,credit card,899,1/8/2012 5:27,823,Valentin,450
+52214,ClU1K8pr,38,cash,900,4/11/2011 23:37,824,Konrad,451
+39913,Xs7QOvjj,67,cash,901,2/3/2011 19:54,826,Melchior,452
+94741,zfK9yoyR,87,cheque,902,12/7/2011 19:12,834,Alfons,453
+65985,vLgIg5Nz,29,cash,903,19/4/2013 14:32,835, Leonhard,454
+34487,BAPZtsPS,51,credit card,904,4/1/2012 20:15,836, Adalbert,455
+71111,y1nBm0uq,31,credit card,905,16/11/2012 6:48,838,Bernd,456
+62628,Ewp7EdBm,34,credit card,906,13/8/2011 2:54,844,Eduard,457
+50469,HdsDet1B,32,credit card,907,12/7/2012 21:58,846,Joseph,458
+62144,w6dAdH77,26,cheque,908,9/10/2010 19:03,847, Berthold,459
+96532,jUNaG3EC,65,credit card,909,8/2/2013 2:39,848,Valentin,460
+88362,8wYtDBo8,43,credit card,910,5/9/2012 0:00,849,Bernd,461
+66250,w6dAdH77,45,credit card,911,26/3/2012 5:43,851,Valentin,462
+43336,BYv0hFhr,57,cash,912,9/11/2012 8:28,853,Fridolin,463
+51215,5axdrhwL,34,credit card,913,3/7/2013 21:42,856,Ludwig,464
+63802,GRGGenRP,18,credit card,914,7/7/2013 3:45,857,Georg,465
+49261,GJLsfnUz,70,cash,915,3/3/2012 20:38,861,Bartholomäus,466
+39868,wCMq8WUK,75,credit card,916,18/6/2012 17:13,863, Engelbert,467
+53698,bfskXmFM,46,credit card,917,4/7/2012 22:33,865, Herbert,468
+22184,bfpKdP3O,24,credit card,918,16/8/2012 17:21,867,Leonhard,469
+29665,k9ml4Bd6,52,credit card,919,3/3/2012 14:48,868, Bernhard,470
+60633,w6dAdH77,48,cash,920,16/4/2011 9:43,870,Albert,471
+24913,FcPvi0wk,27,cash,921,3/5/2011 16:16,871,Leopold,472
+44612,6JVHkI4k,,credit card,922,10/3/2011 4:47,872, Bernhard,473
+70311,oTZDktHt,26,credit card,923,15/5/2013 16:43,873,Reinhold,474
+55530,imiE2Rrp,57,cash,924,11/12/2010 16:46,875,Wolfgang,475
+75966,yk7RmqC3,66,credit card,925,24/9/2012 1:22,876,Wolfgang,476
+47306,G66jrlyT,49,credit card,926,12/9/2012 6:27,877,Dionysius,477
+40078,dDRvI9e4,55,credit card,927,18/1/2012 19:07,878,Alfred,478
+44189,7kwn6nI9,24,cash,928,25/1/2012 2:52,880,Korbinian,479
+42056,PF1a3dGy,63,cash,929,18/6/2012 6:31,882,Quirin,480
+53755,eratuthF,52,credit card,930,14/2/2012 3:28,884, Benno,481
+53609,xSUlYQCo,25,cash,931,9/7/2012 9:08,885,Philip(p),482
+64043,zD2BIz5J,30,credit card,932,1/4/2012 4:18,886, Johannes,483
+35219,ufHs8J2Z,63,cheque,933,26/9/2012 9:44,887, Hubert,484
+40901,nb9g7vXm,76,credit card,934,12/1/2012 4:12,889,Nikolaus,485
+46854,jvjbHoQf,69,cheque,935,18/5/2012 4:12,890,Laurentius,486
+20288,TFZ5Tj3Z,43,cash,936,26/10/2011 9:28,892,Georg,487
+58915,8dN88tYa,42,credit card,937,26/3/2013 15:50,893, Leonhard,488
+13641,nF8oEZ6Z,51,credit card,938,19/2/2013 1:32,896,Ferdinand,489
+45679,Do9rtazl,44,credit card,939,24/8/2012 13:23,897,Jakob,490
+62790,cFx3l7xM,51,credit card,940,9/6/2013 13:18,898,Georg,491
+77176,X3YpANiF,30,credit card,941,22/9/2013 12:23,899,Rupert,492
+55516,Xp4OigA4,48,cheque,942,23/5/2013 20:38,900,Marinus,493
+30225,1ImpQTzC,28,credit card,943,11/1/2014 21:44,901,Leopold,494
+71861,IQhgHVoQ,50,credit card,944,29/6/2012 1:44,902,Leopold,495
+21183,JQcMK7Kw,25,credit card,945,9/3/2012 9:02,903,Eustachius,496
+64049,SZS83G1j,56,cash,946,27/3/2013 1:19,905, Stephan,497
+69659,EuWshM0y,17,credit card,947,20/2/2012 18:49,907, Dominik,498
+24494,vxfY9anz,59,credit card,948,5/2/2012 21:06,909,Andreas,499
+61260,IoAIXYwc,70,cash,949,28/12/2011 1:20,910,Balthasar,500
+34225,C5g6ifZj,45,cash,950,11/9/2011 8:22,913,Bartholomäus,501
+41236,9QaadiA2,43,cash,951,29/7/2012 3:34,918,Christoph,502
+26307,13CTCydc,50,credit card,952,5/7/2013 6:04,919,(Franz) Xaver,503
+29540,lsbbuWoz,46,cash,953,17/11/2011 15:00,922,Bartholomäus,504
+42362,6RKmTzjy,25,credit card,954,5/3/2012 2:22,923,Andreas,505
+39166,RqyR9Zyv,43,credit card,955,11/9/2012 5:36,924,Kaspar,506
+59975,x4pYHlgV,29,cash,956,1/2/2012 20:58,926,Laurentius,507
+57187,7WqX2h7Y,49,credit card,957,24/1/2013 3:50,931,Christoph,508
+42348,VPBm67LB,43,cash,958,15/3/2012 23:47,933,Rupert,509
+55922,gcjFUIE5,35,cash,959,25/10/2012 13:46,937, Reinhard,510
+45513,dYQHApCw,19,credit card,960,22/10/2013 12:00,938,Ignaz,511
+55069,SmMXIAPJ,76,cash,961,22/9/2011 0:26,939, Adalbert,512
+40978,jTVJdtrV,53,credit card,962,6/4/2012 23:44,940,Johann,513
+81386,JMwG9cKx,64,credit card,963,6/6/2012 11:54,941, Hubert,514
+45116,TR1g94vu,42,credit card,964,19/6/2011 12:01,942,Alexander,515
+68587,hSOkjC0H,53,credit card,965,3/7/2013 15:06,944,Ludwig,516
+52198,Xh5IQlKq,66,credit card,966,9/5/2012 10:33,945, Bernhard,517
+60668,R9WZiAue,73,cash,967,21/10/2012 8:59,946,Remigius,518
+40708,vsGwxJrF,31,credit card,968,23/4/2013 22:26,950,Matthias,519
+47205,dkjkbYcr,68,credit card,969,12/5/2012 10:08,951,Michael,520
+81673,vcYfSvYu,38,credit card,970,1/9/2011 17:38,952,Korbinian,521
+66365,JZsgRRkb,39,credit card,971,25/9/2012 20:46,953,Rudolf,522
+63964,pXvDL0bK,23,cash,972,27/9/2012 6:05,955,Alfons,523
+53426,hJV6pIKL,52,cash,973,25/4/2012 20:04,956,Florian,524
+42139,oqVT8eJL,38,credit card,974,22/1/2014 8:05,957,Alexander,525
+55845,TFX0Nynn,81,cash,975,3/5/2011 3:09,959,Vitus,526
+68452,OxxWp3VR,20,cash,976,6/2/2012 18:16,960,Matthias,527
+59888,caVDslL0,20,credit card,977,11/3/2013 21:43,961, Benno,528
+29641,Y4xjEVYs,40,credit card,978,12/9/2013 11:04,965, Alexander,529
+60877,sUcNBw7u,29,cash,979,24/10/2012 14:31,968,Florian,530
+47016,D0x9RSKN,90,cash,980,30/11/2011 9:39,969,Eduard,531
+39315,X6iyFUAB,42,credit card,981,2/6/2012 19:38,972, Dominik,532
+52951,qEgENbk8,80,cheque,982,28/1/2012 23:10,974,Ferdinand,533
+56389,qoR9gBUN,43,credit card,983,25/3/2013 5:17,975,Reinhold,534
+72253,K1LM1wa2,23,credit card,984,15/1/2013 11:24,976, Hartmut,535
+32410,GcdANJZ9,29,credit card,985,25/1/2013 11:46,978,Jakob,536
+41173,rjtU2Gp8,44,credit card,986,15/6/2012 2:41,979, Adalbert,537
+36549,BHRbmBG0,37,cash,987,24/4/2013 19:32,980,Manfred,538
+23720,f6IvQ9iT,26,credit card,988,21/1/2013 12:02,982,Albert,539
+43487,3DX3Tb31,21,credit card,989,24/11/2012 21:04,983,Christian,540
+50043,DiIeXlNJ,80,cheque,990,6/2/2013 16:31,984,Matthias,541
+76653,YliWRuTy,50,cash,991,23/2/2012 6:53,987, Adalbert,542
+46280,ol5yiPlF,28,credit card,992,21/9/2013 17:34,988,Alfred,543
+48847,jNO6ylgr,82,cash,993,13/9/2013 19:16,989,Georg,544
+60904,uZZh1OO3,64,credit card,994,6/5/2013 3:06,991, Reinhard,545
+57129,awng4WeD,19,credit card,995,24/5/2012 17:45,993,Fridolin,546
+53081,Hps22IPl,29,credit card,996,17/7/2013 2:37,994,Leonhard,547
+42168,MyTexgxz,84,credit card,997,13/10/2011 23:08,995,Alfons,548
+92731,nLsFoXDP,20,credit card,998,6/1/2013 18:19,997,Valentin,549
+61397,9ez07QZ4,19,credit card,999,24/3/2013 5:23,998,Vincent,550
+40527,H0n3eUsn,24,credit card,"1,000",11/9/2013 21:49,999,Rupert,551
