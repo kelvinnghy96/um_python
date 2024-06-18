@@ -1,0 +1,54 @@
+/*get data usage*/
+proc sql;
+create table valib.vy_base_addon_data_01 as
+select	*
+		,coalesce(utilization_byte/ 1024/1024/1024,0) format 6.6 as utilization_byte_gb
+ 
+from	valib.vy_base_addon t1
+ 
+left join	(
+			select	*
+					,coalesce(utilization_byte,0) as utilization_byte
+ 
+			from	CSI.TXN_DATAUSAGE_UTIL_202402
+			) t2
+on	t1.msisdn = t2.msisdn
+ 
+;
+ 
+quit;
+ 
+ 
+/*get data usage*/
+proc sql;
+create table valib.vy_base_addon_data_02 as
+ 
+select  *
+		,case	when utilization_gb is null or utilization_gb = 0 then '[0,10)'
+				when utilization_gb < 10 then '[0,10)'
+				when utilization_gb < 20 then '[10,20)'
+				when utilization_gb < 30 then '[20,30)'
+				when utilization_gb < 40 then '[30,40)'
+				when utilization_gb < 50 then '[40,50)'
+				when utilization_gb < 60 then '[50,60)'
+				when utilization_gb < 70 then '[60,70)'
+				when utilization_gb < 80 then '[70,80)'
+				when utilization_gb < 90 then '[80,90)'
+				when utilization_gb < 100 then '[90,100)'
+				when utilization_gb < 110 then '[100,110)'
+				when utilization_gb < 120 then '[110,120)'
+				when utilization_gb < 130 then '[120,130)'
+				when utilization_gb < 140 then '[130,140)'
+				when utilization_gb < 150 then '[140,150)'
+				when utilization_gb < 160 then '[150,160)'
+				when utilization_gb < 170 then '[160,170)'
+				when utilization_gb < 180 then '[170,180)'
+				when utilization_gb < 190 then '[180,190)'
+				when utilization_gb < 200 then '[190,200)'
+				else '[200,+)' 
+				end as utilization_gb_band
+ 
+from	vy_base_addon_data_01
+;
+ 
+quit;
