@@ -1,0 +1,2 @@
+PostalCode,Age,rowNumber,InactiveDuration,AvgTrxVal,TotalTrxVal,cash,cheque,credit card,Product_Value,Payment Method_encoded,FirstName_encoded,Gender_encoded,Status_encoded,Product_encoded,cluster_label,CustomerId
+3,32.0,157,994,22.96121308334588,183.6897046667671,5,2,1,10000000000,0,82,0,1,2,0,320
